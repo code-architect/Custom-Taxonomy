@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Code-Architect Custom post type\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-02-12 01:10+0530\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Code Architect\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation_Date: 2015-01-13 22:24-0500PO-Revision-Date: 2015-01-13 "
+"22:25-0500Last-Transfer:\n"
+"MINE-Version: 1.0\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../caposttype.php:41 ../caposttype.php:43
+msgid "Testimonials"
+msgstr ""
+
+#: ../caposttype.php:42 ../caposttype.php:44
+msgid "Testimonial"
+msgstr ""
+
+#: ../caposttype.php:45 ../caposttype.php:84
+msgid "Add New"
+msgstr ""
+
+#: ../caposttype.php:46
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../caposttype.php:47
+msgid "New Testimonial"
+msgstr ""
+
+#: ../caposttype.php:48
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../caposttype.php:49
+msgid "View Testimonial"
+msgstr ""
+
+#: ../caposttype.php:50
+msgid "All Testimonials"
+msgstr ""
+
+#: ../caposttype.php:51
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../caposttype.php:52
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../caposttype.php:53
+msgid "No testimonials found."
+msgstr ""
+
+#: ../caposttype.php:54
+msgid "No testimonials found in Trash."
+msgstr ""
+
+#: ../caposttype.php:80 ../caposttype.php:82
+msgid "Reviews"
+msgstr ""
+
+#: ../caposttype.php:81 ../caposttype.php:83
+msgid "Review"
+msgstr ""
+
+#: ../caposttype.php:85
+msgid "Add New Review"
+msgstr ""
+
+#: ../caposttype.php:86
+msgid "New Review"
+msgstr ""
+
+#: ../caposttype.php:87
+msgid "Edit Review"
+msgstr ""
+
+#: ../caposttype.php:88
+msgid "View Review"
+msgstr ""
+
+#: ../caposttype.php:89
+msgid "All Reviews"
+msgstr ""
+
+#: ../caposttype.php:90
+msgid "Search Reviews"
+msgstr ""
+
+#: ../caposttype.php:91
+msgid "Parent Reviews:"
+msgstr ""
+
+#: ../caposttype.php:92
+msgid "No reviews found."
+msgstr ""
+
+#: ../caposttype.php:93
+msgid "No reviews found in Trash."
+msgstr ""
+
+#: ../caposttype.php:139
+msgid "Type of Products/Services"
+msgstr ""
+
+#: ../caposttype.php:140 ../caposttype.php:149
+msgid "Type of Product/Service"
+msgstr ""
+
+#: ../caposttype.php:141
+msgid "Search Types of Products/Services"
+msgstr ""
+
+#: ../caposttype.php:142
+msgid "All Types of Products/Services"
+msgstr ""
+
+#: ../caposttype.php:143
+msgid "Parent Type of Product/Service"
+msgstr ""
+
+#: ../caposttype.php:144
+msgid "Parent Type of Product/Service:"
+msgstr ""
+
+#: ../caposttype.php:145
+msgid "Edit Type of Product/Service"
+msgstr ""
+
+#: ../caposttype.php:146
+msgid "Update Type of Product/Service"
+msgstr ""
+
+#: ../caposttype.php:147
+msgid "Add New Type of Product/Service"
+msgstr ""
+
+#: ../caposttype.php:148
+msgid "New Type of Product/Service Name"
+msgstr ""
+
+#: ../caposttype.php:169 ../caposttype.php:184
+msgid "Moods"
+msgstr ""
+
+#: ../caposttype.php:170
+msgid "Mood"
+msgstr ""
+
+#: ../caposttype.php:171
+msgid "Search Moods"
+msgstr ""
+
+#: ../caposttype.php:172
+msgid "Popular Moods"
+msgstr ""
+
+#: ../caposttype.php:173
+msgid "All Moods"
+msgstr ""
+
+#: ../caposttype.php:176
+msgid "Edit Mood"
+msgstr ""
+
+#: ../caposttype.php:177
+msgid "Update Mood"
+msgstr ""
+
+#: ../caposttype.php:178
+msgid "Add New Mood"
+msgstr ""
+
+#: ../caposttype.php:179
+msgid "New Mood Name"
+msgstr ""
+
+#: ../caposttype.php:180
+msgid "Separate moods with commas"
+msgstr ""
+
+#: ../caposttype.php:181
+msgid "Add or remove moods"
+msgstr ""
+
+#: ../caposttype.php:182
+msgid "Choose from the most used moods"
+msgstr ""
+
+#: ../caposttype.php:183
+msgid "No moods found."
+msgstr ""
+
+#: ../caposttype.php:205 ../caposttype.php:206
+msgid "Price Range"
+msgstr ""
+
+#: ../caposttype.php:207
+msgid "Search Price Ranges"
+msgstr ""
+
+#: ../caposttype.php:208
+msgid "All Price Ranges"
+msgstr ""
+
+#: ../caposttype.php:209
+msgid "ParentPrice Range"
+msgstr ""
+
+#: ../caposttype.php:210
+msgid "Parent Price Range:"
+msgstr ""
+
+#: ../caposttype.php:211
+msgid "Edit Price Range"
+msgstr ""
+
+#: ../caposttype.php:212
+msgid "Update Price Range"
+msgstr ""
+
+#: ../caposttype.php:213
+msgid "Add New Price Range"
+msgstr ""
+
+#: ../caposttype.php:214
+msgid "New Price Range"
+msgstr ""
+
+#: ../caposttype.php:215
+msgid "Price Ranges"
+msgstr ""
